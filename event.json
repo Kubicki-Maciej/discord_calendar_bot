@@ -1,4 +1,10 @@
 {
-  "users_signed": [],
-  "events": []
+ "User": [
+  {
+   "user_name": "",
+   "event_hook": []
+  }
+ ],
+ "Calendar": [],
+ "Event": []
 }
